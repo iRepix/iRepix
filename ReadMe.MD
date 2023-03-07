@@ -1,50 +1,37 @@
 <a>
   <h3 align="center">
-    <img
-      src="https://github.com/iRepix/iRepix/blob/main/Assets/image.png"
-      width="280"
-    /><br />
-    👋 Hi, I’m iRepix
-  </h3>
+  <img src="https://github.com/iRepix/iRepix/blob/main/Assets/CirclePFP.png?raw=true" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	iRepix
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
+<p align="center">
+	<a href="https://github.com/iRepix/iRepix/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/iRepix/iRepix?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="https://github.com/iRepix/iRepix/releases/latest">
+	<img alt="Followers" src="https://img.shields.io/github/followers/iRepix?style=for-the-badge&logo=github&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="https://github.com/iRepix/iRepix/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/iRepix/iRepix?style=for-the-badge&logo=gitbook&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="mailto:iRepix@proton.me">
+		<img alt="ProtonMail" src="https://img.shields.io/badge/Protonmail-Contact me-%2300457C.svg?logo=protonmail&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41&style=for-the-badge"></a>
+</p>
+
+ 
   <p align="center">
     Hi, My name is iRepix, Im currently learning Python & Java<br />
-    Im currently working on java project, Thanks you for viewing my page <3>
+    Im currently working on java project, Thanks you for viewing my page <3
   </p>
 </a>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/morning.png"
-    width="175"
-  />
-  <img
-    src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/palette/night.png"
-    width="175"
-  />
-</p>
+<a>
+  <h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="10" width="0px"/>
+</h3>
 
-<div align="center">
-  <a href="https://github.com/iRepix?tab=followers">
-    <img
-      alt="GitHub followers"
-      src="https://img.shields.io/github/followers/iRepix?logo=github&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
-    />
-  </a>
-  <a href="https://github.com/iRepix">
-    <img
-      alt="GitHub stars"
-      src="https://img.shields.io/github/stars/iRepix?logo=github&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
-    />
-  </a>
-  <a href="mailto:iR3pix@proton.me">
-    <img
-      alt="Protonmail"
-      src="https://img.shields.io/badge/Protonmail-Contact me-%2300457C.svg?logo=protonmail&colorA=1e1e28&colorB=c9cbff&style=for-the-badge"
-    />
-  </a>
-</div>
-<br />
-
----
-
-
+<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" /></p>
+<p align="center"><a href="https://github.com/iRepix/iRepix/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=b7bdf8"/></a></p>
